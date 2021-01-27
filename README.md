@@ -2,7 +2,7 @@
 
 ![enter image description here](https://github.com/Vishweshwar-satpute/Human-Activity-Recognition-using-Smartphones/blob/main/1.png)
 
-Human Activity Recognition database built from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.
+Human Activity Recognition database built from the recordings of 30 subjects performing activities of daily living, while carrying a waist-mounted smartphone with embedded inertial sensors.
 
 To Find the ML-Algorithm which Predict the Activity Outcome.
 
